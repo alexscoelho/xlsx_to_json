@@ -1,0 +1,18 @@
+{
+  "name": "excel_reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-xlsx": "^0.21.0",
+    "xlsx-parse-json": "^3.1.1"
+  }
+}
